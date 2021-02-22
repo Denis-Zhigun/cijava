@@ -27,7 +27,11 @@
             <version>4.2.1</version>
             <type>pom</type>
         </dependency>
-
+        <dependency>
+            <groupId>checkstyle</groupId>
+            <artifactId>checkstyle</artifactId>
+            <version>5.0</version>
+        </dependency>
     </dependencies>
 
 
